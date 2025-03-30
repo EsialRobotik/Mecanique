@@ -20,3 +20,8 @@ PAMI = Petit Actionneur Motorisé Indépendant
 | Support microswitch tirette | [pami_cord_microswitch_holder.3mf](pami_cord_microswitch_holder.3mf) | |
 | Oreille droite servo | [pami_ear_servo.3mf](pami_ear_servo.3mf) | |
 | Oreille gauche libre | [pami_ear_free.3mf](pami_ear_free.3mf) | |
+
+# Autres ressources
+
+Museau de la face avant : [pami1.svg](pami1.svg)
+![pami1.svg](pami1.svg)
